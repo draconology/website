@@ -55,4 +55,4 @@ A 9.2 m² is not big enough and it is heavy. Maybe a 20 m² wing?
 ## 📎 Supplementary Materials
 
 Watch a video demonstration of my experiment on YouTube:  
-[▶ Watch on YouTube](https://www.youtube.com/your-video-link)
+[▶ Watch on YouTube](https://youtu.be/Mt7vFgoQ0C8)

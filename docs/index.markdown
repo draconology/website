@@ -14,5 +14,6 @@ _A study of dragon technology_
 
 ---
 
-> “Because there’s no rule saying dragons can’t exist—let’s become them!”
-> Draconology
+
+* * *
+“Because there’s no rule saying dragons can’t exist—let’s become them!”

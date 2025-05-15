@@ -18,6 +18,7 @@ I ran this experiment to find out **If I can put together a Dragon Wingsuite and
 - Pilot, 22 kg, can run at 4 m/s, no prior flight experience
 - Climbing Harness
 - Climbing Carabiner
+- Shoes
 
 ## 🔬 Procedure
 1. Calculate the wing size and flying speed

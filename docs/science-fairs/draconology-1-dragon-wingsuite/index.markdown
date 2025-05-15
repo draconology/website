@@ -37,14 +37,9 @@ After completing the steps above, here’s what happened:
 **Conclusion:**  
 A 9.2 m² is not big enough and it is heavy. Maybe a 20 m² wing? 
 
-![Poster thumbnail](/assets/images/dragon-wingsuite-thumb.png)
-
-[Download full poster (PDF)](/assets/files/dragon-wingsuite-poster.pdf)
+![Poster](/science-fairs/assets/images/d1-poster.jpg)
 
 ## 🖼️ Gallery
-
-d1-initial.jpg  d1-math-2.jpg  d1-math-4.jpg  d1-two-wings-helium.jpg
-d1-math-1.jpg   d1-math-3.jpg  d1-math-5.jpg  d1-two-wings.jpg
 
 ![Setup - Figure 1](/science-fairs/assets/images/d1-initial.jpg)  
 *Figure 1: Initial setup*

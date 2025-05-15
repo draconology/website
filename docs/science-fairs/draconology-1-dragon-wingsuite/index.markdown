@@ -45,10 +45,10 @@ A 9.2 m² is not big enough and it is heavy. Maybe a 20 m² wing?
 *Figure 1: Initial setup*
 
 ![Figure 2](/science-fairs/assets/images/d1-math-1.jpg)  
-![Figure 3](/science-fairs/assets/images/d1-math-1.jpg)  
-![Figure 4](/science-fairs/assets/images/d1-math-1.jpg)  
-![Figure 5](/science-fairs/assets/images/d1-math-1.jpg)  
-![Figure 6](/science-fairs/assets/images/d1-math-1.jpg)  
+![Figure 3](/science-fairs/assets/images/d1-math-2.jpg)  
+![Figure 4](/science-fairs/assets/images/d1-math-3.jpg)  
+![Figure 5](/science-fairs/assets/images/d1-math-4.jpg)  
+![Figure 6](/science-fairs/assets/images/d1-math-5.jpg)  
 *Figure 2-6: Calculations*
 
 ![Two Wings - Figure 7](/science-fairs/assets/images/d1-two-wings.jpg)  

@@ -20,7 +20,7 @@ I ran this experiment to find out **If I can put together a Dragon Wingsuite and
 - Climbing Carabiner
 
 ## 🔬 Procedure
-1. Do a quick estimate for the minimum flying thing
+1. Calculate the wing size and flying speed
 2. Go to a grassy soccer field, no wind, no people around
 3. Rig the 5 m² wing, put on the harness, try to run and glide
 4. Rig the 9.2 m² wing, put on the harness, try to run and glide
@@ -43,14 +43,22 @@ A 9.2 m² is not big enough and it is heavy. Maybe a 20 m² wing?
 
 ## 🖼️ Gallery
 
-![Setup](/assets/images/setup.jpg)  
+d1-initial.jpg  d1-math-2.jpg  d1-math-4.jpg  d1-two-wings-helium.jpg
+d1-math-1.jpg   d1-math-3.jpg  d1-math-5.jpg  d1-two-wings.jpg
+
+![Setup - Figure 1](/science-fairs/assets/images/d1-initial.jpg)  
 *Figure 1: Initial setup*
 
-![In‐progress](/assets/images/in-progress.jpg)  
-*Figure 2: Mid‐experiment*
+![Figure 2](/science-fairs/assets/images/d1-math-1.jpg)  
+![Figure 3](/science-fairs/assets/images/d1-math-1.jpg)  
+![Figure 4](/science-fairs/assets/images/d1-math-1.jpg)  
+![Figure 5](/science-fairs/assets/images/d1-math-1.jpg)  
+![Figure 6](/science-fairs/assets/images/d1-math-1.jpg)  
+*Figure 2-6: Calculations*
 
-![Final](/assets/images/final.jpg)  
-*Figure 3: Final result*
+![Two Wings - Figure 7](/science-fairs/assets/images/d1-two-wings.jpg)  
+![Two Wings - Figure 8](/science-fairs/assets/images/d1-two-wings-helium.jpg)  
+*Figure 7-8: Conclusion*
 
 ## 📎 Supplementary Materials
 
